@@ -1,15 +1,9 @@
-raitvpiu2.servicebus.windows.net
-atomatic.rai.it
-raitv-hub.servicebus.windows.net
+www.raiplay.it
 
 hbbtv.mediaset.net
 
 ht.la7.it
-static.iltrovatore.it
-8d1a3da1-b625-4b4a-872b-13622b855ae6.edge.permutive.app
-legacy.api.permutive.app
 
-static.sky.it
+data-hbbtv.sky.it
 
 it.container.enhanced.live
-usersconsents.enhanced.live
