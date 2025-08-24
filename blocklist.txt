@@ -1,4 +1,5 @@
 www.raiplay.it
+raitvpiu.servicebus.windows.net	
 hbbtv.mediaset.net
 ht.la7.it
 data-hbbtv.sky.it
